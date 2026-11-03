@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'none'; script-src 'self'; style-src 'self'; font-src 'self'; img-src 'self'; manifest-src 'self'; base-uri 'none'; form-action 'none'; object-src 'none'"
+    />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="referrer" content="no-referrer" />
+    <meta name="robots" content="noindex, nofollow" />
+    <meta name="theme-color" content="#0b0d11" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Device check" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="touch-icon-180.png" />
+    <link rel="stylesheet" href="check.css" />
+    <script type="module" src="check.js"></script>
+    <title>Device check</title>
+  </head>
+  <body>
+    <div id="probe" aria-hidden="true"></div>
+    <div class="guide guide-top" aria-hidden="true"></div>
+    <div class="guide guide-bottom" aria-hidden="true"></div>
+    <main>
+      <h1>Device check</h1>
+      <p class="lede">Measures this phone's screen and safe areas for MPV PRISM. The shaded bands at the top and bottom are the safe areas.</p>
+
+      <section class="card" id="mode" aria-live="polite">
+        <p id="mode-text">Measuring…</p>
+      </section>
+
+      <section class="card" aria-labelledby="values-title">
+        <h2 id="values-title">This phone</h2>
+        <dl id="values"></dl>
+      </section>
+
+      <section class="card" aria-labelledby="reference-label">
+        <h2 id="reference-label">Published values</h2>
+        <table>
+          <thead>
+            <tr>
+              <th scope="col">Safe area</th>
+              <th scope="col">This phone</th>
+              <th scope="col">Published</th>
+              <th scope="col">Result</th>
+            </tr>
+          </thead>
+          <tbody id="compare"></tbody>
+        </table>
+        <p id="result" aria-live="polite"></p>
+        <p class="source">Source: <a id="reference-source" rel="noreferrer" target="_blank"></a></p>
+      </section>
+
+      <section class="card" aria-labelledby="steps-title">
+        <h2 id="steps-title">What to send</h2>
+        <ol>
+          <li>Open this page from its Home Screen icon.</li>
+          <li>Hold the phone upright and take a screenshot.</li>
+          <li>Turn the phone sideways and take a second screenshot.</li>
+          <li>Send both screenshots, and your iOS version (Settings, General, About).</li>
+        </ol>
+      </section>
+    </main>
+  </body>
+</html>
