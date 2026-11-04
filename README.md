@@ -4,7 +4,7 @@ Public preview of MPV PRISM by AMPATEK SCRIPTS, built for design review. This re
 
 | Wave | Link |
 |---|---|
-| Design Wave 1 (in progress): power, Lock Screen, passcode, Home Screen, status bar, island, notifications, badges, incoming calls, Notification Center, Control Centre, app switcher | [design-wave-1/](design-wave-1/) |
+| Design Wave 1 (in progress): power, Lock Screen, passcode, Home Screen, status bar, island, notifications, badges, incoming calls, Notification Center, Control Centre, app switcher, setup assistant | [design-wave-1/](design-wave-1/) |
 | Design Wave 0: Style Tile, device profiles, frames, demo shell (approved) | [design-wave-0/](design-wave-0/) |
 
 Tool: [device-check/](device-check/) reads a phone's screen size and safe areas, to check published reference values against a real device.
