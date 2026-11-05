@@ -4,7 +4,7 @@ Public preview of MPV PRISM by AMPATEK SCRIPTS, built for design review. This re
 
 | Wave | Link |
 |---|---|
-| Design Wave 2 (in progress): Contacts; Phone and Messages next | [design-wave-2/](design-wave-2/) |
+| Design Wave 2 (in progress): Contacts and calls; the Phone app and Messages next | [design-wave-2/](design-wave-2/) |
 | Design Wave 1: the iOS shell: power, Lock Screen, passcode, Home Screen, status bar, island, notifications, Notification Center, Control Centre, app switcher, setup assistant (approved) | [design-wave-1/](design-wave-1/) |
 | Design Wave 0: Style Tile, device profiles, frames, demo shell (approved) | [design-wave-0/](design-wave-0/) |
 
