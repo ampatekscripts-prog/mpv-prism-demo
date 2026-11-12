@@ -1,0 +1,1 @@
+import{n as e}from"./index-_nr4lGNi.js";import{CameraScreen as t}from"./CameraScreen-B90lA-o5.js";var n=e();function r({action:e}){return(0,n.jsx)(t,{purpose:e===`locked`?`lock`:`app`,initialMode:e===`video`?`video`:`photo`,initialFacing:e===`selfie`?`front`:`back`},e??`camera`)}export{r as default};
