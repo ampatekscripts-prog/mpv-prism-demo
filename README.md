@@ -4,7 +4,7 @@ Public preview of MPV PRISM by AMPATEK SCRIPTS, built for design review. This re
 
 | Wave | Link |
 |---|---|
-| Design Wave 3 (in progress): the Camera (photo, video, selfies, lenses per model, flash, timer, grid, styles, Camera Control, held sideways, the Lock Screen camera, the camera in Messages and Contacts) and Photos (library, viewer, collections, albums, Hidden and Recently Deleted, search, share) | [design-wave-3/](design-wave-3/) |
+| Design Wave 3: the Camera (photo, video, selfies, lenses per model, held sideways, the Lock Screen camera, the camera in Messages and Contacts), Photos (library, viewer, albums, Hidden and Recently Deleted, search, editing, Use as Wallpaper, shared albums) and Voice Memos, with the custom voicemail greeting (awaiting approval) | [design-wave-3/](design-wave-3/) |
 | Design Wave 2: Contacts, the Phone app, calls and Messages with photos, video, voice, location, money and emoji (approved) | [design-wave-2/](design-wave-2/) |
 | Design Wave 1: the iOS shell: power, Lock Screen, passcode, Home Screen, status bar, island, notifications, Notification Center, Control Centre, app switcher, setup assistant (approved) | [design-wave-1/](design-wave-1/) |
 | Design Wave 0: Style Tile, device profiles, frames, demo shell (approved) | [design-wave-0/](design-wave-0/) |
