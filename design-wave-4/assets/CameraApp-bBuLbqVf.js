@@ -1,1 +1,0 @@
-import{n as e}from"./index-Ct_EfsiT.js";import{CameraScreen as t}from"./CameraScreen-IEcSUCii.js";var n=e();function r({action:e}){return(0,n.jsx)(t,{purpose:e===`locked`?`lock`:`app`,initialMode:e===`video`?`video`:`photo`,initialFacing:e===`selfie`?`front`:`back`},e??`camera`)}export{r as default};
