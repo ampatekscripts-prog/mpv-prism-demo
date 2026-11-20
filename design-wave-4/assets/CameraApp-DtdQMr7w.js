@@ -1,0 +1,1 @@
+import{n as e}from"./index-4F831hZ1.js";import{CameraScreen as t}from"./CameraScreen-BzaxUUSl.js";var n=e();function r({action:e}){return(0,n.jsx)(t,{purpose:e===`locked`?`lock`:`app`,initialMode:e===`video`?`video`:`photo`,initialFacing:e===`selfie`?`front`:`back`},e??`camera`)}export{r as default};
