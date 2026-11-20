@@ -1,1 +1,0 @@
-import{n as e}from"./store-Cx251tI3.js";import{L as t}from"./Sheet-DjxjuCXV.js";function n(){let n=t(e=>e.status),r=e(e=>e.state),i=n.wifi&&r.wifi,a=!r.airplane&&r.cellularData&&n.sim===`ready`&&n.network!==null&&n.bars>0;return i||a}export{n as t};
