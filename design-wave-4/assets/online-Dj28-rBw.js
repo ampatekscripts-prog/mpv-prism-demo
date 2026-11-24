@@ -1,0 +1,1 @@
+import{n as e}from"./store-xic-bDd8.js";import{i as t}from"./status-DB2AcNUk.js";function n(){let n=t(e=>e.status),r=e(e=>e.state),i=n.wifi&&r.wifi,a=!r.airplane&&r.cellularData&&n.sim===`ready`&&n.network!==null&&n.bars>0;return i||a}export{n as t};
