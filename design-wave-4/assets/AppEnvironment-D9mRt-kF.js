@@ -1,0 +1,1 @@
+import{i as e,n as t,s as n}from"./index-Df4wTCKO.js";var r=n(e(),1),i=t(),a=(0,r.createContext)(null);function o({value:e,children:t}){return(0,i.jsx)(a.Provider,{value:e,children:t})}function s(){let e=(0,r.useContext)(a);if(!e)throw Error(`useAppEnvironment must be used inside an open app.`);return e}export{s as n,o as t};
