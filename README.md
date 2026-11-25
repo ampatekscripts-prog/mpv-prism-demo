@@ -4,7 +4,7 @@ Public preview of MPV PRISM by AMPATEK SCRIPTS, built for design review. This re
 
 | Wave | Link |
 |---|---|
-| Design Wave 5 (in progress): Garage (vehicles with plate, place and condition, lock and unlock, waypoint, valet paid in Wallet, shared keys, impound, damage report, widget) | [design-wave-5/](design-wave-5/) |
+| Design Wave 5 (in progress): Garage (vehicles, lock and unlock, waypoint, valet, shared keys, impound, damage report, widget) and Services (directory by job, requests with location, taxi with the driver on the map, staff view, ratings, boss editing and promotion) | [design-wave-5/](design-wave-5/) |
 | Design Wave 4: Clock, Calculator, Notes, Calendar, Files, Passwords, Wallet, Mail, Browser with Prism's own sites, Music, Maps, Health and Settings (approved) | [design-wave-4/](design-wave-4/) |
 | Design Wave 3: the Camera (photo, video, selfies, lenses per model, held sideways, the Lock Screen camera, the camera in Messages and Contacts), Photos (library, viewer, albums, Hidden and Recently Deleted, search, editing, Use as Wallpaper, shared albums) and Voice Memos, with the custom voicemail greeting (approved) | [design-wave-3/](design-wave-3/) |
 | Design Wave 2: Contacts, the Phone app, calls and Messages with photos, video, voice, location, money and emoji (approved) | [design-wave-2/](design-wave-2/) |
