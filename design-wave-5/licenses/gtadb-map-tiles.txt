@@ -1,0 +1,11 @@
+GTA V satellite map tiles
+
+Source: gtadb.org and contributors, https://map.gtadb.org
+Repository: https://github.com/rolux/gtadb.org (maps/tiles/5/satellite)
+Licence: Creative Commons Attribution 4.0 International (CC BY 4.0)
+  Legal code: https://creativecommons.org/licenses/by/4.0/legalcode
+  Summary: https://creativecommons.org/licenses/by/4.0/
+
+Changes made by MPV PRISM: the tiles were re-encoded as WebP (quality 74),
+and levels 3 and below were joined into one overview picture cropped to the
+island (web/tooling/assets/generate_satellite.py).
