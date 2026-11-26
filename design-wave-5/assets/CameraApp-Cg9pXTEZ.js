@@ -1,0 +1,1 @@
+import{n as e}from"./index-DEpqpV6a.js";import{CameraScreen as t}from"./CameraScreen-C3U2o4VO.js";var n=e();function r({action:e}){return(0,n.jsx)(t,{purpose:e===`locked`?`lock`:`app`,initialMode:e===`video`?`video`:`photo`,initialFacing:e===`selfie`?`front`:`back`},e??`camera`)}export{r as default};
